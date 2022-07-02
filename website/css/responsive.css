@@ -1,0 +1,19 @@
+@media screen and(max-width:1000vw) {
+    body{
+        background-color: darkblue;
+    }
+
+    .nav {
+        flex-direction: column;
+    }
+
+    .logo {
+        justify-content: center;
+        margin: 12px 0;
+    }
+
+    nav ul {
+        justify-content: center;
+    }
+
+}
